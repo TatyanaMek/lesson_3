@@ -20,3 +20,14 @@
 https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 ***СПАСИБО ЗА ВНИМАНИЕ!!!***
 https://yandex.ru/images/search?text=%D0%BC%D0%B0%D1%80%D0%BA%D0%B4%D0%B0%D1%83%D0%BD&from=tabbar&p=1&pos=70&rpt=simage&img_url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDv8DC8qXQAE0txf.jpg&lr=10762
+
+
+## Для того, чтобы поделиться своими изменениями в уже существующем проекте необходимо: 
+1. Нажать на кнопку `FORK` внутри своего аккауента на GitHub, в том репозитории, который нас интересует.  
+2. Воспроизводим команду `GIT CLONE` для нашей версии этого репозитория. 
+3. Мы создаем ветку с предлагаемыми изменениями. 
+4. Производим все изменения только в этой ветке. 
+5. Отправляем эти инменения на свой аккуант командой `PUSH`
+6. В окне на GitHub появляется dозможность отправить `PULL REQUEST` владельцу репозитория.
+
+![Я наконец научилась добавлять картинки! Успех))](https://yandex.ru/images/search?from=tabbar&text=%D0%BA%D0%BE%D1%82%D0%B8%D0%BA%D0%B8%20%D0%BC%D0%B5%D0%BC&pos=8&img_url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FEwZwxp8WEAUgRFy.jpg&rpt=simage&lr=10735).
